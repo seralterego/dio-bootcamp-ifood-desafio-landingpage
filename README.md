@@ -1,4 +1,4 @@
-# Desafio 01 - Primeira Landing Page
+# DIO Bootcamp Ifood Tech | [Desafio 01] Primeira Landing Page
 <!-- fonte para readme stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- fonte para badges e shieds: https://github.com/iuricode/readme-template/tree/main -->
 
